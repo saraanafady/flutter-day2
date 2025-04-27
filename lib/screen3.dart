@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../components/button.dart';
 import '../components/text_field.dart';
-import '../components/social_button.dart';
 import '../components/checkbox.dart';
 import '../components/paymen.dart';
 
@@ -46,6 +45,7 @@ class SignUpScreen extends StatelessWidget {
                 isPassword: true,
                 icon: Icons.lock, // <-- Pass lock icon here
               ),
+              const SizedBox(height: 20),
                 const CustomTextField(
                   hintText: 'Confirm Password',
                   isPassword: true,
@@ -66,17 +66,6 @@ class SignUpScreen extends StatelessWidget {
                   backgroundColor: const Color.fromARGB(235, 170, 2, 80)
                 ),
                 const SizedBox(height: 20),
-             SocialButton(
-  text: 'Sign in with Google',
-  imagePath: 'assets/google.png', 
-  onPressed: () {},
-),
-    const SizedBox(height: 20),
-           SocialButton(
-  text: 'Sign in with FaceBook',
-  imagePath: 'assets/facebook.png', 
-  onPressed: () {},
-),
                 const SizedBox(height: 20),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
