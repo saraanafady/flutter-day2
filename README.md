@@ -16,8 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 screen one ![screen1](https://github.com/user-attachments/assets/04188242-71d3-4942-a440-a39637a18a7c)
 screen two 
-![screen2](https://github.com/user-attachments/assets/7f061614-0f61-4153-a5b3-fb97bb593005)
+![screen 2](https://github.com/user-attachments/assets/59a36045-4139-4b52-b467-799dc6e86778)
+
 screen three 
-![screen3](https://github.com/user-attachments/assets/0871a848-0ade-4554-b981-820dd0539d1a)
-![screen3-1](https://github.com/user-attachments/assets/7c8233ba-174d-4c96-bdec-c4eef6142ae6)
+![screen 3-1](https://github.com/user-attachments/assets/0de07802-43b2-476f-8abf-b533a25d9c96)
+![screen 3](https://github.com/user-attachments/assets/8b0abef3-34f8-4d74-98e7-ce088c1103be)
+
 
